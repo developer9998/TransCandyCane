@@ -1,13 +1,8 @@
 ﻿using HarmonyLib;
-using System;
 using System.Reflection;
 
 namespace TransCandyCane
 {
-    /// <summary>
-    /// This class handles applying harmony patches to the game.
-    /// You should not need to modify this class.
-    /// </summary>
     public class HarmonyPatches
     {
         private static Harmony instance;

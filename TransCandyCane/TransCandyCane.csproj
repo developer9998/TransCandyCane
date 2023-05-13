@@ -5,11 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\transcandycanetex" />
+    <None Remove="Resources\MainTex.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="Resources\transcandycanetex" />
+    <EmbeddedResource Include="Resources\MainTex.png" />
   </ItemGroup>
 
   <ItemGroup>
